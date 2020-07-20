@@ -1,6 +1,8 @@
 # tennis-partner
 A buggy web app meant for pen-testing training.
 
+-----------------------------------------------
+
 Some description about the app:
 
 Tennis-Partner is a web application that is used for tennis players of all levels to find their tennis partners and schedule games together.
@@ -8,4 +10,8 @@ The app classifies players according to their subjective level and offers a rank
 Tennis-player is an interactive platform, and its goal is to make it easier for players to find other players and enjoy the game together. 
 
 This app is vulnerable to various types of vulnerabilities, such as XSS, broken access control, unrestricted file upload, command injection and more.
+
+------------------------------------------------
+
+The Word file- 'proof of concept' includes examples and explanations to some of the attacks that could be executed in the application. 
 
