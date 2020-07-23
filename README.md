@@ -1,5 +1,5 @@
 # tennis-partner
-A buggy web app meant for pen-testing training.
+A buggy web app designed for pen-testing training.
 
 -----------------------------------------------
 
