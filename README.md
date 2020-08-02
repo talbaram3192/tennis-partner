@@ -12,5 +12,5 @@ Tennis-player is an interactive platform, and its goal is to make it easier for 
 This app is vulnerable to various types of vulnerabilities, such as XSS, broken access control, unrestricted file upload, command injection and more.
 
 ------------------------------------------------
-
+There is also a docx file added- 'Proof of concept', which contains descriptions for some of the attacks that could be found on the app.
 
