@@ -1,0 +1,44 @@
+
+
+
+.login{
+	width:20%;
+   margin-left:40%;
+   margin-top:5%;
+
+}
+
+#title{
+    margin-top:5%;
+    font-family: 'Kalam';font-size: 45px;
+    text-align:center;
+  }
+
+
+
+body{
+        background-image:url('images/back1.jpg');
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+  }
+  main{
+    background-size: cover;
+    font-family: 'Dekko';
+    font-size: 20px;
+  }
+  
+#badpass{
+	color: red;
+	font-weight: bold;
+}
+
+#sign{
+	color: brown;
+	font-weight: bold;
+}
+
+#psign{
+	text-align: center;
+}
