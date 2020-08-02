@@ -13,5 +13,4 @@ This app is vulnerable to various types of vulnerabilities, such as XSS, broken 
 
 ------------------------------------------------
 
-The Word file- 'proof of concept' includes examples and explanations to some of the attacks that could be executed in the application. 
 
